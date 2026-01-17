@@ -22,7 +22,7 @@ It is suitable for:
 📦 **Pydantic** – Request & response validation
 🗄 **SQLAlchemy** – ORM
 💾 **SQLite / PostgreSQL**
-🌐 **Uvicorn** – 
+🌐 **Uvicorn** – ASGI server
 
 ---
 
