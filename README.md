@@ -37,4 +37,4 @@ It is suitable for:
 
 
 
-pytho
+python ai
