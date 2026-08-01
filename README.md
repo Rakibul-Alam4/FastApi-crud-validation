@@ -35,4 +35,4 @@ It is suitable for:
 ✅ RESTful API best practices
 ✅ Auto-generated API documentation (Swagger & ReDoc)
 
-python
+pytho
