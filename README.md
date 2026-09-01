@@ -34,5 +34,3 @@ It is suitable for:
 ✅ Clean and modular project structure
 ✅ RESTful API best practices
 ✅ Auto-generated API documentation (Swagger & ReDoc)
-
-python
